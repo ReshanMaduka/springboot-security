@@ -8,4 +8,14 @@ dependency-reduced-pom.xml
 buildNumber.properties
 .mvn/timing.properties
 # https://github.com/takari/maven-wrapper#usage-without-binary-jar
+.idea
 .mvn/wrapper/maven-wrapper.jar
+.idea/.gitignore
+.idea/.name
+.idea/compiler.xml
+.idea/jarRepositories.xml
+.idea/misc.xml
+.idea/sonarlint/
+.idea/spring_boot.iml
+.idea/vcs.xml
+
